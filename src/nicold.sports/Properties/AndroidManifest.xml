@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="nicold.sports.nicold.sports" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="nicold.sports" android:versionCode="1" android:versionName="1.0">
 	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="22" />
-	<application android:label="nicold.sports"></application>
+	<application android:label="nicold.sports" android:theme="@style/Theme.AppCompat.Light"></application>
 </manifest>
