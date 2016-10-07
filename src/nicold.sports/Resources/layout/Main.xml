@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <Button
+        android:id="@+id/MyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Hello"
+        />
+    <Button
+        android:id="@+id/button_launch_sports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Launch Sports app"
+        />
+    <Button
+        android:id="@+id/button_close_sports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Close Sports app"
+        />
+    <Button
+        android:id="@+id/button_send_dummy_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send dummy data"
+        />
+    <Switch
+        android:id="@+id/switch_sports_units"
+        android:text="units"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Switch
+        android:id="@+id/switch_sports_pace"
+        android:text="pace"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
