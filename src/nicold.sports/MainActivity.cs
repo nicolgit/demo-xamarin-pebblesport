@@ -89,7 +89,7 @@ namespace nicold.sports
             pd.AddUint8(Pebble.Constants.SportsUnitsKey, value);
             Pebble.PebbleKit.SendDataToPebble(ApplicationContext, Pebble.Constants.SportsUuid, pd);
 
-            switchPace.Text = $"Units: { (switchPace.Checked ? @"Imperial" : @"Metric") }";
+            switchUnits.Text = $"Units: { (switchPace.Checked ? @"Imperial" : @"Metric") }";
         }
 
         private void ButtonSendDummy_Click(object sender, EventArgs e)
