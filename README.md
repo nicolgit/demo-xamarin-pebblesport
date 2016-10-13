@@ -1,6 +1,6 @@
 
 #Demo Xamarin PebbleSport integration app
-If you are looking for a xamarin Android sample that show how to manage the Pebble Sport app from a Xamarin Project, This repository is for you:-)
+If you are looking for a xamarin Android sample that shows how to manage the Pebble Sport app from a Xamarin Project, This repository is for you:-)
 
 Because I haven't found out there any sample that shows to use Pebble SDK from Xamarin, I decided to write this one.
 
