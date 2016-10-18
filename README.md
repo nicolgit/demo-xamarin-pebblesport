@@ -1,4 +1,3 @@
- how
 #Demo Xamarin PebbleSport integration app
 If you are looking for a xamarin Android sample that shows how to manage the Pebble Sport app from a Xamarin Project, This repository is for you:-)
 
